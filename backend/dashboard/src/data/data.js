@@ -14,7 +14,7 @@ export const watchlist = [
   {
     name: "TCS",
     price: 3194.8,
-    percent: "-0.25%",
+    percent: "-0.25%", 
     isDown: true,
   },
   {
@@ -191,3 +191,32 @@ export const positions = [
     isLoss: true,
   },
 ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
