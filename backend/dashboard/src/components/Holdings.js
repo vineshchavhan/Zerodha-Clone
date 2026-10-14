@@ -108,4 +108,5 @@ const Holdings = () => {
   );
 };
 
-export default Holdings;
+export default Holdings; 
+
